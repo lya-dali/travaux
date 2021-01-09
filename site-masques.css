@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body
+{
+	background-color: black;
+		color: white;
+	}
+
+
+h1
+{
+	font-weight: bold;
+}
+
+
+h1
+{
+	font-size: 30px;
+}
+
+
+nav
+{
+	font-size: 27px;
+}
+
+
+nav ul
+{
+	list-style-type: none;
+}
+
+
+nav li
+{
+	float: left;
+}
+
+
+a:hover 
+{
+    color: white;
+    text-decoration: none;
+    text-align: right;
+}
+
+
+body
+{
+	padding-right: 140px;
+	padding-left: 140px;
+}
+
+img
+{
+	float: right;
+}
+
+a
+{
+	color:white;
+	text-decoration:none;
+}
+
+div
+{
+	float: right;
+}
+
+h1
+{
+	float: top;
+}
+
